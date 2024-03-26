@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6602962ae8a5b0f6c3da9116"
+  },
+  "tên": "Phan Thành Long",
+  "lớp": "22CT115"
+},
+{
+  "_id": {
+    "$oid": "6602962ae8a5b0f6c3da9117"
+  },
+  "tên": "Nguyễn Văn Mạnh",
+  "lớp": "22CT115"
+},
+{
+  "_id": {
+    "$oid": "66029703e8a5b0f6c3da9118"
+  },
+  "tên": "Trần Văn Phúc ",
+  "lớp": "22CT115"
+}]
